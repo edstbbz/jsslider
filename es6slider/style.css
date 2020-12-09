@@ -1,0 +1,32 @@
+.ed_slider {
+    float: left;
+    
+    
+    
+}
+.slide {
+   height: 100%;
+   max-width: 150%;
+   
+   
+}
+.slide img {
+    
+}
+
+body {
+    margin: 0;
+}
+.slider {
+    
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    
+}
+.box {
+    overflow: hidden;
+    
+    position: relative;
+    margin: 0 auto;
+}
